@@ -10,3 +10,5 @@ export default function Layout({ children }: { children: React.ReactNode }) {
     </div>
   );
 }
+
+// loading.tsx allows you to create fallback UI to show a as replacement while page content loads
